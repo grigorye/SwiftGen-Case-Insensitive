@@ -1,2 +1,2 @@
-A = 'Foo';
-a = 'Bar %s';
+"A" = "Foo";
+"a" = "Bar %s";
